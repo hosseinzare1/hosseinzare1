@@ -1,23 +1,51 @@
-My name is Hossein Zare
-===============================
+![Header](https://github.com/hosseinzare1/hosseinzare1/blob/master/header.png)
 
-Android Developer
------------------------------
+Welcome to my page! 
+i'm Hossein Zare, Android developer from iran.
+
+- 🔭 I’m currently working on **some Android projects**
+
+- 🌱 I’m currently learning **android native development**
+
+- 💬 Ask me about **Android, Kotlin, Java**
+
+- 📫 How to reach me **hosseiny625@gmail.com**
+
                   
-### Skills
+<h3 align="left">Skills</h1>
 <p align="left">
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-    <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                    
-### Socials
-                  
+  <a href="https://developer.android.com/studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://skillicons.dev/icons?i=kotlin" />
+  </a>
+   <a href="https://java.com/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+   <a href="https://github.com/hosseinzare1">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
+<h3 align="left">Social</h1>             
 <p align="left">
-    <a href="https://www.instagram.com/hosseinzari/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="www.linkedin.com/in/hosseinzarebarenji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://twitter.com/hosseinzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  <a href="https://www.instagram.com/hosseinzari/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/hosseinzarebarenji">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+   <a href="https://twitter.com/hosseinzari">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+   <a href="https://github.com/hosseinzare1">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>       
 
-### Badges
 
-<b>My GitHub Stats</b>
+### Readme Quotes
 
-<a href="https://github.com/hosseinzare1" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinzare1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
