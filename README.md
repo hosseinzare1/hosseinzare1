@@ -24,7 +24,7 @@ i'm Hossein Zare, Android developer from iran.
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
    <a href="https://github.com/hosseinzare1">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
@@ -40,12 +40,4 @@ i'm Hossein Zare, Android developer from iran.
    <a href="https://twitter.com/hosseinzari">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-   <a href="https://github.com/hosseinzare1">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>       
-
-
-### Readme Quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
