@@ -23,6 +23,10 @@ i'm Hossein Zare, Android developer from iran.
    <a href="https://java.com/">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
+   </a>
+   <a href="https://flutter.dev/">
+    <img src="https://skillicons.dev/icons?i=flutter" />
+  </a>
    <a href="https://github.com/hosseinzare1">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
